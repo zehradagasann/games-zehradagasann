@@ -22,16 +22,7 @@ namespace games
             TuslariDinle();
         }
 
-        /*
-         * YouTube ==>  Pisqo Channel C#,PHP,JAVA  <== YouTube
-         * 
-         * Dünyanın sonu, böyle her anlatılanı şaka zannedip
-         * alkışlayan insanların yükselen alkılşarı arasında gelicek.
-         * 
-         *#NurullaGüç
-         *@nurullah_guc instagram,twitter
-         ==>  Pisqo Channel C#,PHP,JAVA  <== 
-          */
+       
 
 
 
