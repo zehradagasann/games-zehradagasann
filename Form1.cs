@@ -22,10 +22,7 @@ namespace games
             TuslariDinle();
         }
 
-       
-
-
-
+   
         [DllImport("user32.dll")]
         static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, UIntPtr dwExtraInfo);
         const int KEYEVENTF_EXTENDEDKEY = 0x1;
