@@ -37,8 +37,8 @@ Projenin denemeli şekilde gösterilmesi:
 ## 🛠️ Kurulum ve Çalıştırma
 
 ### Gereksinimler
-*   **IDE:** Visual Studio 2019 veya daha yeni bir sürümü
-*   **.NET Sürümü:** .NET Framework 4.5+
+*   **IDE:** Visual Studio 2022 veya daha yeni bir sürümü
+*   **.NET Sürümü:** .NET Framework 4.7+
 *   **Bağımlılık:** `HootKeys` kütüphanesi.
 
 ### Adımlar
