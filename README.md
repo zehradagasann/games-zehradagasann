@@ -88,3 +88,4 @@ Projenin denemeli şekilde gösterilmesi:
     *   `Microsoft.Win32.Registry` sınıfını kullanarak `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run` anahtarına erişir ve uygulamanın yürütülebilir dosya yolunu (`Application.ExecutablePath`) bu anahtara ekler. Bu sayede uygulama kalıcı hale gelir.
 
 ---
+YOUTUBE VİDEO LİNKİ:https://youtu.be/XGeRy64nRbw?si=QH8Zx92_NdzNeFup
